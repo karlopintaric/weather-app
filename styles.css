@@ -1,0 +1,43 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    padding: 16px;
+}
+
+form input {
+    padding: 4px;
+    border-radius: 0.5rem;
+}
+
+form button {
+    padding: 8px 16px;
+    background-color: royalblue;
+    color: #fafafa;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 600;
+}
+
+form button:hover {
+    opacity: 0.9;
+}
+
+output {
+    display: none;
+    padding: 16px;
+}
+
+.loading {
+    font-size: 2rem;
+    font-weight: 600;
+    padding: 16px;
+}
+
+
+
+
+
